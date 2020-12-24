@@ -1,0 +1,19 @@
+{
+  "name": "qamanualtest",
+  "version": "1.0.0",
+  "description": "Learning project for Qa Manual to try automation UI testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derwebe/Qemanuemlest.git"
+  },
+  "author": "Derwebe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derwebe/Qemanuemlest/issues"
+  },
+  "homepage": "https://github.com/derwebe/Qemanuemlest#readme"
+}
